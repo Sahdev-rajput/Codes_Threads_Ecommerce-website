@@ -1,5 +1,5 @@
 
-## CODES THREADS ECOMMERCE WEBSITE
+## CODES THREADS E-COMMERCE WEBSITE
 ## The final website looks like:
 
 ![Screenshot (247)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/06507044-c3b9-423a-ac40-cd7ca3e07f63)
@@ -8,11 +8,9 @@
 ![Screenshot (244)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/3ccfb445-665e-411d-8e21-c63ddd141bf9)
 ![Screenshot (243)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/3d8a3f90-a99d-4923-af07-775637b48c5c)
 ![Screenshot (242)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/e6bd3d39-ce35-4d97-a32b-e96623f42cfb)
-![Screenshot (241)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/0f3f9c8c-6c50-4214-8221-54178c941a23)
 ![Screenshot (240)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/a1663db5-a03f-4def-9a8c-70590c2cca54)
 ![Screenshot (239)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/b0dd3fdf-feec-4bf6-9d8d-ae307f73318f)
 ![Screenshot (238)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/a893eb92-0299-4c65-99ae-21b980ec5507)
-![Screenshot (237)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/4c2747cf-fd68-4401-a791-58085f538b41)
 ![Screenshot (236)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/4fe3cfd6-4065-4d19-9ac0-edceb61254b8)
 ![Screenshot (235)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/4224a6a0-b66a-4f9f-8879-491059063efd)
 ![Screenshot (234)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/c6634ae4-58d4-43df-a03e-673cf53303a5)
