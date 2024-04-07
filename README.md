@@ -1,6 +1,6 @@
 
 ## CODES THREADS ECOMMERCE WEBSITE
-##The final website looks like:
+## The final website looks like:
 
 ![Screenshot (247)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/06507044-c3b9-423a-ac40-cd7ca3e07f63)
 ![Screenshot (246)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/fe359526-b0ba-4449-9012-84d9481302d0)
