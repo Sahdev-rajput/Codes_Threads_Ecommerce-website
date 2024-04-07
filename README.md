@@ -1,40 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## CODES THREADS ECOMMERCE WEBSITE
+##The final website looks like:
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (247)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/06507044-c3b9-423a-ac40-cd7ca3e07f63)
+![Screenshot (246)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/fe359526-b0ba-4449-9012-84d9481302d0)
+![Screenshot (245)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/9f4d1557-e65d-44df-beb9-973be63e482d)
+![Screenshot (244)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/3ccfb445-665e-411d-8e21-c63ddd141bf9)
+![Screenshot (243)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/3d8a3f90-a99d-4923-af07-775637b48c5c)
+![Screenshot (242)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/e6bd3d39-ce35-4d97-a32b-e96623f42cfb)
+![Screenshot (241)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/0f3f9c8c-6c50-4214-8221-54178c941a23)
+![Screenshot (240)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/a1663db5-a03f-4def-9a8c-70590c2cca54)
+![Screenshot (239)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/b0dd3fdf-feec-4bf6-9d8d-ae307f73318f)
+![Screenshot (238)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/a893eb92-0299-4c65-99ae-21b980ec5507)
+![Screenshot (237)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/4c2747cf-fd68-4401-a791-58085f538b41)
+![Screenshot (236)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/4fe3cfd6-4065-4d19-9ac0-edceb61254b8)
+![Screenshot (235)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/4224a6a0-b66a-4f9f-8879-491059063efd)
+![Screenshot (234)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/c6634ae4-58d4-43df-a03e-673cf53303a5)
+![Screenshot (233)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/593df97e-0328-4e3c-a4d0-42df9232fc73)
+![Screenshot (232)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/86ccce24-5d9d-488f-86b7-7225ca28b99b)
+![Screenshot (231)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/9eedf4bd-0318-416d-9eeb-c22db4192e65)
+![Screenshot (230)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/b1706b0d-52b6-4dce-b49e-c76b31e99a64)
+![Screenshot (229)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/2bfab80c-7c0c-4c59-9014-557ba238bec0)
+![Screenshot (228)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/13906856-44b0-45bf-ae01-0952644662af)
+![Screenshot (249)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/ba18578a-462d-4cfa-81af-ebff65fe6ed9)
+![Screenshot (248)](https://github.com/Sahdev-rajput/Codes_Threads_Ecommerce-website/assets/108891970/092a9983-bdbf-4df3-899b-a35fd05e6e9f)
